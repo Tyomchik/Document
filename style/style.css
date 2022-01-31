@@ -11,3 +11,7 @@
     width: 402px 1422px;
     height: 57px 583px;
 }
+.main {
+    background: black;
+    height: 100vh;
+}
